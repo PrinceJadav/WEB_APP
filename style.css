@@ -1,0 +1,15 @@
+#case{
+    text-align: center;
+    color: red;
+    font-size: larger;
+    font-style: italic;
+}
+#lens{
+    text-align: center;
+    font-family: 'special elite' italic;
+}
+#bottle{
+    text-align: left;
+    height: 120px;
+    width:90px;
+}
